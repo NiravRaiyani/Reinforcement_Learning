@@ -4,4 +4,4 @@ The work in this repository is a simple extension of the work done by Vaibhav Ku
 # Frozen Lake Environment 
 ![](assets/FrozenLake.png)
 
-The frozen lake environment has 8x8 total 64 states. In each episode the agent starts at ```S``` and the episode terminates when it reaches either hole ```H``` or goal ```G```. The reward for reaching the goal is 1 while going to any other state results in 0 reward.
+The frozen lake environment is an 8x8 grid world and has total 64 states. In each episode the agent starts at ```S``` and the episode terminates when it reaches either hole ```H``` or goal ```G```. The reward for reaching the goal is 1 while going to any other state results in 0 reward.
