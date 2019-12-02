@@ -10,4 +10,5 @@ All three algorithms are implemented as given in [Reinforcement Learning: An Int
 
 # TD Q-Learning 
 ![](assets/FrozenLake.gif)
+The figure above illustrates the results obtained with Q - Learning.
 * The repository is still being updated for a better navigation through the code.
