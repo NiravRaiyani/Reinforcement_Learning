@@ -8,4 +8,6 @@ The frozen lake environment is an 8x8 grid world and has total 64 states. In eac
 
 All three algorithms are implemented as given in [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by Richard S. Sutton and Andrew G. Barto.
 
+# TD Q-Learning 
+![](assets/FrozenLake.gif)
 * The repository is still being updated for a better navigation through the code.
